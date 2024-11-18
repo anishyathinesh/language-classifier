@@ -1,5 +1,5 @@
 # language-classifier
-This project is a 🌐 Wikipedia language classifier that determines whether a 15-word segment is in English or Dutch. 🇬🇧🇳🇱
+This project is a 🌐 Wikipedia language classifier that determines whether a 15-word segment is in English or Dutch. 🇬🇧 🇳🇱
 
 I compiled test data by scraping random Wikipedia articles and created features based on the data, such as the presence of language-specific function words and average word length. These features were used to train two learning algorithms: **decision tree learning** and **Adaboost** with decision trees as the base model.
 
